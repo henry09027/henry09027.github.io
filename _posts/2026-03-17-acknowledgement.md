@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Thanks to [Yuqing Xie](https://yqxie99.github.io/) and [Kun Chen](https://kwen-chen.github.io/) for the contributions of the blog feature!
+Thanks to [Yuqing Xie](https://yqxie99.github.io/) and [Kun Chen](https://kwen-chen.github.io/) for the contributions of the blog!
 
 ## Section 1
 
