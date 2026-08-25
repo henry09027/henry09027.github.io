@@ -9,7 +9,7 @@ tags:
 
 ## Unlocking Alpha: AI-Powered Earnings Call Analysis
 
-This hands-on lab explores the integration of Snowflake Notebooks and Cortex AI with S&P Global Market Intelligence’s Machine-Readable Transcripts dataset to analyze executive communication duri[...]
+This hands-on lab explores the integration of Snowflake Notebooks and Cortex AI with S&P Global Market Intelligence’s Machine-Readable Transcripts dataset to analyze executive communication during earnings calls. Learn how to use LLMs and vector similarity techniques to score executives on transparency and responsiveness. Research shows that executives who proactively address market queries with clear answers consistently outperform their peers, while those who are reactive or off-topic tend to underperform. A portfolio strategy based on these communication styles has been shown to generate +515bps of annualized alpha. Join us for a hands-on experience.
 
 ## Official Website
 
@@ -28,7 +28,7 @@ This hands-on lab explores the integration of Snowflake Notebooks and Cortex AI 
   document.getElementById('snowflakesummit2025-pdf-frame').src = pdfUrl;
 </script>
 
-## Pictures
+## Photo Gallery
 
 <!-- Photo gallery: responsive grid with lightbox. Uses Jekyll's site.static_files to enumerate images in the folder assets/images/event_photos/SnowflakeSummit2025 -->
 
