@@ -5,7 +5,8 @@ selected:       true
 pub:            "Journal of Behavioral Finance"
 pub_date:       "2026"
 abstract: >-
-  We examine executive responsiveness during earnings calls and its impact on stock returns. Using large language model embeddings, we measure semantic similarity between analyst questions and executive responses, capturing direct answers versus deflection. Executives who provide semantically aligned responses generate 3.9% annual alpha (t = 3.41), robust to sentiment, firm characteristics, and market factors. Human validation on 1,642 Q&A pairs shows low-similarity responses are rated evasive 67% of the time versus 22% for high-similarity responses (r = 0.360, p < 0.001; Cohen’s d = 1.01).cover:          /assets/images/covers/cover1.jpg
+  We examine executive responsiveness during earnings calls and its impact on stock returns. Using large language model embeddings, we measure semantic similarity between analyst questions and executive responses, capturing direct answers versus deflection. Executives who provide semantically aligned responses generate 3.9% annual alpha (t = 3.41), robust to sentiment, firm characteristics, and market factors. Human validation on 1,642 Q&A pairs shows low-similarity responses are rated evasive 67% of the time versus 22% for high-similarity responses (r = 0.360, p < 0.001; Cohen’s d = 1.01).
+cover:          /assets/images/covers/TheLanguageofEvasion.png
 authors:
 - Liam Hynes*
 - Henry Chiang*
