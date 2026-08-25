@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: 'Korean Buyside Conference'
-date: 2026-09-03
+date: 2026-08-24
 tags:
   - Korea
   - Conference
