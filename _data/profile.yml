@@ -1,18 +1,18 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Henry Chiang"
+secondary_name: "Shen Chiang"
+navbar_name: "Henry Chiang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Quantitative Researcher
+# - name: Affiliation Name
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "henry09027@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: https://scholar.google.com/citations?user=ZNoQS94AAAAJ&hl=en  # This is an example, replace it with your own Google Scholar ID
+github: henry09027
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
