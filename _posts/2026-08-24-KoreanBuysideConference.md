@@ -7,7 +7,18 @@ tags:
   - Conference
 ---
 
-# Beyond Alpha : Building Resilient Portfolios with Data, Insights & Innovation (데이터와혁신으로구축하는회복탄력적포트폴리오)
+## Beyond Alpha : Building Resilient Portfolios with Data, Insights & Innovation (데이터와혁신으로구축하는회복탄력적포트폴리오)
+
+AI 시대의포트폴리오구축: 공급망데이터에서찾는새로운투자기회
+AI-Era Portfolio Construction: Why Supply Chains Matter More Than Ever
+Henry Chiang, Lead Quantitative Researcher,
+Quantitative Research & Solutions (QRS), S&P Global Market Intelligence
+• 독자기술을활용한공급망네트워크분석과투자인사이트발굴
+• 공급망데이터를활용한투자가능한모멘텀시그널개발
+• Uncovering Supply Chain Relationships Using a Patented Algorithm
+• Building an Investable Supply Chain Momentum Signal
+
+## Official Website
 
 <div style="width:100%;max-width:1100px;margin:0 auto;">
   <div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
@@ -24,4 +35,4 @@ tags:
   document.getElementById('korea-pdf-frame').src = pdfUrl;
 </script>
 
-# Pictures from Event
+## Pictures from Event
