@@ -25,7 +25,7 @@ Leading financial institutions are already deploying AI to drive measurable ROI.
 <script>
   // encodeURI handles spaces/unsafe chars in the filename
   const pdfUrl = encodeURI('{{ "/assets/images/etc/SessionCatalog2026.pdf" | relative_url }}');
-  document.getElementById('snowflakesummit2025-pdf-frame').src = pdfUrl;
+  document.getElementById('snowflakesummit2026-pdf-frame').src = pdfUrl;
 </script>
 
 ## Pictures
