@@ -6,7 +6,7 @@ pub:            "SSRN"
 pub_date:       "2024"
 abstract: >-
   The growth in women’s representation among senior corporate positions, once a bright spot for gender parity, potentially faces an alarming turning point. Exponential growth over a decade is showing signs of losing momentum. Growth no longer appears exponential. A waning focus on diversity initiatives suggests a potential inflection point and calls our previous gender parity estimates into question.
-cover: 
+cover: /assets/images/covers/ElusiveParity.png
 authors:
 - Henry Chiang
 - Samrudhi Kaulapure
