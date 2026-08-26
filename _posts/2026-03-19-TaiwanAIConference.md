@@ -7,7 +7,7 @@ tags:
   - Conference
 ---
 
-## Unlocking Alpha: AI-Powered Earnings Call Analysis
+## 關係不卡，盤就不卡 ─ 用 BRA 看懂供應鏈、捕捉機會
 
 在互聯的全球經濟裡，企業之間的關係像一張錯綜的網。
 S&P Global Market Intelligence
