@@ -6,6 +6,7 @@ pub:            "SSRN"
 pub_date:       "2024"
 abstract: >-
   AI, geopolitics, labor ‘rightsizing’(and other layoff euphemisms), and a sanguine tone characterized the Q4’23 earnings season. Nvidia is riding the AI wave and pulling its connected network along with it. An NLP analysis of earnings call transcripts was used to quantify the discussion.
+cover: /assets/images/covers/ExecutiveExuberant.png
 authors:
 - Henry Chiang
 - Liam Hynes
