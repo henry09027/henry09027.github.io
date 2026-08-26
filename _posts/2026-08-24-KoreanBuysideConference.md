@@ -38,4 +38,4 @@ AI-Era Portfolio Construction: Why Supply Chains Matter More Than Ever
   document.getElementById('korea-pdf-frame').src = pdfUrl;
 </script>
 
-## Pictures from Event
+## Photo Gallery
