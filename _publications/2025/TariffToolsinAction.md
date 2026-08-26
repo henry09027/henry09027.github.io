@@ -5,7 +5,7 @@ selected:       false
 pub:            "SSRN"
 pub_date:       "2025"
 abstract: >-
-  Tariffs have dominated investor discourse since April 2, 2025 (“Liberation Day”), when U.S. President Trump announced sweeping tariff reform. This nowcasting report leverages real-time data from S&P Global’s proprietary datasets to generate 11 visualizations, providing a snapshot of evolving market risks in a volatile tariff landscape, with updates to follow as the situation progressescover:          /assets/images/covers/TariffToolsInAction.png
+  Tariffs have dominated investor discourse since April 2, 2025 (“Liberation Day”), when U.S. President Trump announced sweeping tariff reform. This nowcasting report leverages real-time data from S&P Global’s proprietary datasets to generate 11 visualizations, providing a snapshot of evolving market risks in a volatile tariff landscape, with updates to follow as the situation progressescover:          cover: /assets/images/covers/TariffToolsInAction.png
 authors:
 - Mengmeng Ao
 - Drew Bowers
