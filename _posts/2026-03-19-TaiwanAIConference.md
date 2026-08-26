@@ -234,7 +234,7 @@ BRA
 
   <div class="photo-gallery">
 
-    {% assign photo_folder = "/assets/images/event_photos/SnowflakeSummit2025" %}
+    {% assign photo_folder = "/assets/images/event_photos/TaiwanAIConference" %}
 
     {% for file in site.static_files %}
 
