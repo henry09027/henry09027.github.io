@@ -30,13 +30,13 @@ HenryChiang
     <iframe id="korea-pdf-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" title="Tokyo Buyside Roundtable PDF"></iframe>
   </div>
   <p style="text-align:center;margin-top:0.5rem">
-    <a href="{{ '/assets/images/etc/Tokyo Buyside Roundtable.pdf' | relative_url }}">Open PDF in a new tab</a>
+    <a href="{{ '/assets/images/etc/TokyoBuysideRoundtable.pdf' | relative_url }}">Open PDF in a new tab</a>
   </p>
 </div>
 
 <script>
   // encodeURI handles spaces/unsafe chars in the filename
-  const pdfUrl = encodeURI('{{ "/assets/images/etc/Tokyo Buyside Roundtable.pdf" | relative_url }}');
+  const pdfUrl = encodeURI('{{ "/assets/images/etc/TokyoBuysideRoundtable.pdf" | relative_url }}');
   document.getElementById('korea-pdf-frame').src = pdfUrl;
 </script>
 
