@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: 'Tokyo Buyside Roundtable'
-date: 2026-10-14
+date: 2026-10-22
 tags:
   - Tokyo
   - Japan
