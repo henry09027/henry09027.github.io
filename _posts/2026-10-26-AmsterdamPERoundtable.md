@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: 'Amsterdam Buyside Roundtable'
-date: 2026-10-15
+date: 2026-10-26
 tags:
   - Amsterdam 
   - Roundtable
