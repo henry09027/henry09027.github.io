@@ -224,7 +224,7 @@ HenryChiang
 
   <div class="photo-gallery">
 
-    {% assign photo_folder = "assets/images/event_photos/KoreanBuysideConference" %}
+    {% assign photo_folder = "assets/images/event_photos/TokyoRoundtable" %}
 
     {% for file in site.static_files %}
 
